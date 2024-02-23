@@ -1,5 +1,5 @@
 ## JavaScript 💻
-• There are the basics of JavaScript 📁
+• There are some basics of JavaScript 📁
 
 ## License 🔐
 [MIT License](License)
