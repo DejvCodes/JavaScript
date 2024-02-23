@@ -1,0 +1,7 @@
+.circle {
+    width: 100px;
+    height: 100px;
+    background-color: coral;
+    border-radius: 50%;
+    transition: all 0.7 ease-in-out;
+}

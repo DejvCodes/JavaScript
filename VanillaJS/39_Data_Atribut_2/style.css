@@ -1,0 +1,17 @@
+.panel {
+    width: 100px;
+    height: 100px;
+    transition: all 1.5s ease-in-out;
+}
+.panel.red {
+    background-color: red;
+}
+.panel.blue {
+    background-color: blue;
+}
+.panel.green {
+    background-color: yellowgreen;
+}
+.panel.active {
+    width: 100%;
+}
