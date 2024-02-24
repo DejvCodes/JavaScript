@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.timeline {
+    background-color: blue;
+    display: flex;
+    overflow-x: scroll;
+    scroll-behavior: smooth;
+}
+.year {
+    height: 300px;
+    width: 150px;
+    background-color: aqua;
+    border: 2px solid white;
+    flex-grow: 0;
+    flex-shrink: 0;
+    cursor: pointer;
+    transition: all 1s;
+}
+.year.active {
+    background-color: red;
+}
+
+/* Hide scrollBar for Chrome, Safari and Opera */
+.timeline::-webkit-scrollbar {
+    display: none;
+}
+
+/* Hide scrollbar for IE, Edge and FireFox */
+.timeline {
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
+}

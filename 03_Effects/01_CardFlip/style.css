@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.card-container {
+    height: 500px;
+    width: 300px;
+    position: relative;
+}
+.card-container div {
+    height: 100%;
+    width: 100%;
+    border-radius: 20px;
+    position: absolute;
+    transition: all 1s;
+    backface-visibility: hidden;
+}
+.card-container .card-back {
+    background-color: cornflowerblue;
+}
+.card-container.front .card-back {
+    transform: rotateY(-180deg);
+}
+.card-container .card-front {
+    background-image: url("../img/card.jpg");
+    background-size: cover;
+    transform: rotateY(180deg);
+}
+.card-container.card-container.front .card-front {
+    transform: rotateY(0deg);
+}
