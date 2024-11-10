@@ -1,0 +1,11 @@
+body {
+    transition: all 1s ease-in-out;
+}
+.container {
+    text-align: center;
+}
+button {
+    padding: 40px;
+    font-size: 30px;
+    font-weight: bold;
+}

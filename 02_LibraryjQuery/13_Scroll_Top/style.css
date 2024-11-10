@@ -1,0 +1,9 @@
+body {
+    height: 400vh;
+    background: linear-gradient(0deg, red, blue, green);
+}
+.scrollTop {
+    position: fixed;
+    top: 10px;
+    right: 20px;
+}

@@ -1,0 +1,11 @@
+.animals div {
+    height: 60px;
+    width: 60px;
+    background-color: black;
+    margin: 10px;
+    transition: all 1s;
+}
+.animals div.active {
+    width: 100%;
+    background-color: coral;
+}

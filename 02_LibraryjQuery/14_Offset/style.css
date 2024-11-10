@@ -1,0 +1,24 @@
+.one {
+    height: 400px;
+    background-color: forestgreen;
+}
+.two {
+    height: 850px;
+    background-color: gold;
+} 
+.three {
+    height: 370px;
+    background-color: hotpink;
+}
+.four {
+    height: 200px;
+    background-color: indigo;
+}
+.five {
+    height: 180px;
+    background-color: lightblue;
+}
+.six {
+    height: 1000px;
+    background-color: lightsalmon;
+}
