@@ -4,10 +4,10 @@
 //    jinak se cena nezmění
 
 // 2. Maximální výše slevy nesmí překročit 1 000 Kč, pokud sleva bude vyšší
-//    než 1 000 Kč, tak se odečte poze 1 000 Kč.
+//    než 1 000 Kč, tak se odečte pouze 1 000 Kč.
 
 function finalPrice(argTotalPrice, argPercentageDiscount) {
-    // Nákup pod 500 Kč => Nebude se aplokovat sleva
+    // Nákup pod 500 Kč => Nebude se aplikovat sleva
     if (argTotalPrice <= 500) {
         let result = "Cena nákupu je: " + argTotalPrice + " Kč.";
         return result;
