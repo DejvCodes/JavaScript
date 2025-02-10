@@ -1,6 +1,6 @@
 // Vytvoření prázdné proměnné
 let myFavColor;
-console.log(myFavColor) // undefined
+console.log(myFavColor) // undefined 
 
 // Přidání hodnoty do proměnné
 myFavColor = "black";
