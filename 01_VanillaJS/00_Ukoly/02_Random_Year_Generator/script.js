@@ -16,4 +16,4 @@ for (let i = 0; i < yearByUser; i++) {
     let randomYear = Math.floor(Math.random() * (maxYear - minYear + 1)) + minYear;
 
     console.log(randomYear);
-}
+} 
