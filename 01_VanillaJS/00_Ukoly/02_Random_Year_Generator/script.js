@@ -15,5 +15,5 @@ for (let i = 0; i < yearByUser; i++) {
     // Generování náhodného letopočtu od 1992 - 2050
     let randomYear = Math.floor(Math.random() * (maxYear - minYear + 1)) + minYear;
 
-    console.log(randomYear);
+    console.log(randomYear); 
 } 
