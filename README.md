@@ -1,5 +1,5 @@
 ## JavaScript
 • Here are some basics of JavaScript 
 
-## License 🔐 
+## 🔐 License 
 [MIT License](LICENSE)
