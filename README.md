@@ -1,5 +1,4 @@
-## JavaScript
-• Here are some basics of JavaScript 
+## JavaScript – Fundamentals
 
 ## 🔐 License 
 [MIT License](LICENSE) 
