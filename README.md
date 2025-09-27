@@ -1,4 +1,4 @@
 ## JavaScript – Fundamentals
 
-## 🔐 License 
+## 🔐 License
 [MIT License](LICENSE) 
