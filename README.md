@@ -1,4 +1,4 @@
-# JavaScript - Complete Learning Path
+## JavaScript - Complete Learning Path
 A comprehensive JavaScript learning repository covering fundamentals, jQuery library, and interactive effects. <br>
 This repository contains hands-on examples and practical exercises progressing from basic syntax to advanced DOM manipulation and animations.
 
