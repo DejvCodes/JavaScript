@@ -59,8 +59,8 @@ This repository contains hands-on examples and practical exercises progressing f
 2. Navigate to a specific topic: <br>
    • `cd 01_VanillaJS` or `cd 02_LibraryjQuery` or `cd 03_Effects` <br>
 3. Open HTML files in your browser: <br>
-   • Open index.html in a live server or browser <br>
-   • Or use Live Server extension in VS Code <br>
+   • open index.html in a live server or browser <br>
+   • or use Live Server extension in VS Code <br>
 
 ## 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=javascript,jquery,html,css)](https://skillicons.dev)
